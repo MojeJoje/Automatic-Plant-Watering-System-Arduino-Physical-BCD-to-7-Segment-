@@ -1,0 +1,2 @@
+# Automatic-Plant-Watering-System-Arduino-Physical-BCD-to-7-Segment-
+Arduino-based automatic plant watering system that uses a soil moisture sensor to detect soil conditions and control a water pump via a relay. The system also includes a 7-segment display driven through a BCD-to-7-segment decoder to show real-time moisture levels, providing a simple visual interface without needing a serial monitor.
